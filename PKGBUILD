@@ -5,10 +5,9 @@
 
 pkgname=protege
 pkgver=4.3.0.304
-_pkgver=4.3.0-304
 _ver=4.3
 _veralt=4.2
-pkgrel=1
+pkgrel=2
 pkgdesc='Free, open source ontology editor and knowledge-base framework'
 arch=('any')
 url='http://protege.stanford.edu/'
